@@ -82,38 +82,7 @@ Document 6: Safe, Secure, and Trustworthy Development of Artificial Intelligence
     {"input": "What's the role of good leadership?",
     "output": "Setting ethical standards, risk mitigation, and public trust and accountability."},
     {"input": "Who should be a member of the White House AI Council?",
-    "output":  "(i) the Secretary of State;
-                (ii) the Secretary of the Treasury;
-                (iii) the Secretary of Defense;
-                (iv) the Attorney General;
-                (v) the Secretary of Agriculture;
-                (vi) the Secretary of Commerce;
-                (vii) the Secretary of Labor;
-                (viii) the Secretary of HHS;
-                (ix) the Secretary of Housing and Urban Development;
-                (x) the Secretary of Transportation;
-                (xi) the Secretary of Energy;
-                (xii) the Secretary of Education;
-                (xiii) the Secretary of Veterans Affairs;
-                (xiv) the Secretary of Homeland Security;
-                (xv) the Administrator of the Small Business Administration;
-                (xvi) the Administrator of the United States Agency for International Development;
-                (xvii) the Director of National Intelligence;
-                (xviii) the Director of NSF;
-                (xix) the Director of OMB;
-                (xx) the Director of OSTP;
-                (xxi) the Assistant to the President for National Security Affairs;
-                (xxii) the Assistant to the President for Economic Policy;
-                (xxiii) the Assistant to the President and Domestic Policy Advisor;
-                (xxiv) the Assistant to the President and Chief of Staff to the Vice President;
-                (xxv) the Assistant to the President and Director of the Gender Policy
-                Council;
-                (xxvi) the Chairman of the Council of Economic Advisers;
-                (xxvii) the National Cyber Director;
-                (xxviii) the Chairman of the Joint Chiefs of Staff; and
-                (xxix) the heads of such other agencies, independent regulatory agencies,
-                and executive offices as the Chair may from time to time designate or
-                invite to participate."},
+    "output":  "(i) the Secretary of State;\n (ii) the Secretary of the Treasury;\n (iii) the Secretary of Defense;\n (iv) the Attorney General;\n (v) the Secretary of Agriculture;\n (vi) the Secretary of Commerce;\n (vii) the Secretary of Labor;\n (viii) the Secretary of HHS;\n (ix) the Secretary of Housing and Urban Development;\n (x) the Secretary of Transportation;\n (xi) the Secretary of Energy;\n (xii) the Secretary of Education;\n (xiii) the Secretary of Veterans Affairs;\n (xiv) the Secretary of Homeland Security;\n (xv) the Administrator of the Small Business Administration;\n (xvi) the Administrator of the United States Agency for International Development;\n (xvii) the Director of National Intelligence;\n (xviii) the Director of NSF;\n (xix) the Director of OMB;\n (xx) the Director of OSTP;\n (xxi) the Assistant to the President for National Security Affairs;\n (xxii) the Assistant to the President for Economic Policy;\n (xxiii) the Assistant to the President and Domestic Policy Advisor;\n (xxiv) the Assistant to the President and Chief of Staff to the Vice President;\n (xxv) the Assistant to the President and Director of the Gender Policy Council;\n (xxvi) the Chairman of the Council of Economic Advisers;\n (xxvii) the National Cyber Director;\n (xxviii) the Chairman of the Joint Chiefs of Staff; and\n (xxix) the heads of such other agencies, independent regulatory agencies, and executive offices as the Chair may from time to time designate or invite to participate."},
     {"input": "How does this paper expect to attract talent in AI?",
     "output": "Making it easier for noncitizens to travel to the US to work in the field, improving visa processing times, as well as as expand the categories of nonimmigrants who qualify for the domestic visa renewal program covered under 22 CFR 41.111(b) to include academic J–1 research scholars and F–1 students in science, technology, engineering, and mathematics (STEM)."},
     {"input": "How does this paper ensure safety?",
@@ -128,11 +97,7 @@ Document 7: Generative Artificial Intelligence and Copyright Law
     {"input": "Who owns the copyright to generative AI outputs?",
     "output": "Depending on the interpretation, the AI may be considered the author of the work. Companies such as OpenAI “bypass most copyright questions through contract."},
     {"input": "Does the AI training process infringe on copyright in other works?",
-    "output": "AI companies may argue that their training processes constitute fair use and are therefore noninfringing. Whether or not copying constitutes fair use depends on four statutory factors under 17 U.S.C. § 107:
-                1. the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;
-                2. the nature of the copyrighted work;
-                3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
-                4. the effect of the use upon the potential market for or value of the copyrighted work."},
+    "output": "AI companies may argue that their training processes constitute fair use and are therefore noninfringing. Whether or not copying constitutes fair use depends on four statutory factors under 17 U.S.C. § 107: 1. the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes; 2. the nature of the copyrighted work; 3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and 4. the effect of the use upon the potential market for or value of the copyrighted work."},
     {"input": "What are some considerations for Congress?",
     "output": "Congress may, for example, consider legislation clarifying whether AI-generated works are copyrightable, who should be considered the author of such works, or when the process of training generative AI programs constitutes fair use. They are effectively on a wait-and-see policy."},
     {"input": "What is meant by “vicarious infringement”?",
@@ -145,23 +110,13 @@ Document 8: A comprehensive and distributed approach to AI regulation
     {"input": "Why is there a need for comprehensive and distributed AI regulation?", 
     "output": "Comprehensive and distributed AI regulations are needed as algorithmic decision-making systems (ADSs) have a cross-sectoral, widespread impact in areas such as education, employment, finance, healthcare and more. However, ADSs also pose risks like erroneous data, algorithmic failures and discriminatory impact. Due to the diverse nature of ADSs,  it is necessary to formulate sector-specific regulations and applications that offer flexibility rather than a centralized regulatory framework."},
     {"input": "What is the CASC approach?", 
-    "output": "A central challenge of AI governance that necessitates an application specific regulatory approach is proliferation of ADSs in socioeconomic determinations. Two key interventions, addressing this challenge, are jointly known as the “CASC Approach”:
-                - Allowing agencies to demand information to check and review ADSs that impact their responsibilities
-                - A new regulatory instrument, the Critical Algorithmic System Classification (CASC), 
-                that allows agencies to issue and enforce regulations on ADSs"},
+    "output": "A central challenge of AI governance that necessitates an application specific regulatory approach is proliferation of ADSs in socioeconomic determinations. Two key interventions, addressing this challenge, are jointly known as the “CASC Approach”:\n - Allowing agencies to demand information to check and review ADSs that impact their responsibilities\n - A new regulatory instrument, the Critical Algorithmic System Classification (CASC), that allows agencies to issue and enforce regulations on ADSs"},
     {"input": "What is the Critical Algorithmic System Classification(CASC)?", 
     "output": "A legal designation that can be applied to an ADS category through the federal rulemaking process, leading to legally binding and enforceable rules for that ADS category."},
     {"input": "What are some of the advantages of the CASC approach?", 
-    "output": "Some of the advantages are as follows:
-                - Enables sectoral agencies to audit and regulate ADSs within their authority
-                - Addresses gaps in regulation, clarifies legal uncertainties and empowers agencies to oversee ADSs impacting critical socioeconomic determinations
-                - Allows US to be recognized as an undisputed leader in trustworthy AI, leading to global business development opportunities
-                - Regulatory flexibility, enables better international alignment and strengthens trade relationships"},
+    "output": "Some of the advantages are as follows:\n - Enables sectoral agencies to audit and regulate ADSs within their authority\n - Addresses gaps in regulation, clarifies legal uncertainties and empowers agencies to oversee ADSs impacting critical socioeconomic determinations\n - Allows US to be recognized as an undisputed leader in trustworthy AI, leading to global business development opportunities\n - Regulatory flexibility, enables better international alignment and strengthens trade relationships"},
     {"input": "What are some limitations or disadvantages of the CASC approach?", 
-    "output": "Some of the limitations/disadvantages of the CASC approach are as follows:
-                - Limited by the pace of the process, and its dependence of rule making makes the process an inherently  retroactive rather than proactive approach
-                - A lengthy regulatory process undermines efficacy of the approach
-                - Additional expertise and staff capacity required within covered agencies for effective regulation execution"}
+    "output": "Some of the limitations/disadvantages of the CASC approach are as follows: - Limited by the pace of the process, and its dependence of rule making makes the process an inherently  retroactive rather than proactive approach - A lengthy regulatory process undermines efficacy of the approach - Additional expertise and staff capacity required within covered agencies for effective regulation execution"}
 ]
 ```
 Document 9: AI and Geopolitics: How Might AI Affect the Rise and Fall of Nations
@@ -174,10 +129,7 @@ Document 9: AI and Geopolitics: How Might AI Affect the Rise and Fall of Nations
     {"input": "How proliferation of big technology companies, combined with AI advancement impacts geopolitical power dynamics?", 
     "output": "Big technology companies, operating across national boundaries, exert influence at local, national, and international levels, vastly impacting geopolitical power dynamics by shaping consumer behavior and gathering vast amounts of data. This phenomenon has led to polarization within populations and even regime changes in some countries."},
     {"input": "What are some ways in which governments can mitigate potential threats posed by AI?", 
-    "output": "Some ways in which governments can mitigate potential threats posed by AI include:
-                - Strengthening resilience to AI threats: Adopting strategies of resilience to mitigate potential threats by focusing on areas like biosecurity, countering cybersecurity threats, strengthening democratic resilience, and developing emergency response options for various threats from state, sub-state, and non-state actors.
-                - Non-traditional regulatory techniques: In order to truly encapsulate the everchanging AI landscape it is important for governments to look into non-traditional regulatory frameworks like investing in publicly owned data sets for AI research, issuing challenge grants for socially beneficial AI uses, establishing uniform liability rules for developers, and setting requirements for AI assessment. 
-                - Funding innovation: By funding national AI resources and partnering with private sector, the government can introduce improvements in risk assessments for dealing with unexpected AI-enabled issues"},
+    "output": "Some ways in which governments can mitigate potential threats posed by AI include:\n - Strengthening resilience to AI threats: Adopting strategies of resilience to mitigate potential threats by focusing on areas like biosecurity, countering cybersecurity threats, strengthening democratic resilience, and developing emergency response options for various threats from state, sub-state, and non-state actors.\n - Non-traditional regulatory techniques: In order to truly encapsulate the everchanging AI landscape it is important for governments to look into non-traditional regulatory frameworks like investing in publicly owned data sets for AI research, issuing challenge grants for socially beneficial AI uses, establishing uniform liability rules for developers, and setting requirements for AI assessment.\n - Funding innovation: By funding national AI resources and partnering with private sector, the government can introduce improvements in risk assessments for dealing with unexpected AI-enabled issues"},
     {"input": "What are some key challenges being faced by governments for AI regulation?", 
     "output": "Governments encounter difficulties in regulating AI due to its borderless nature, rapid pace of technological advancement, and lack of traditional chokepoints for regulation. To address these challenges, governments could adopt strategies focusing on resilience-building, expand regulatory toolboxes beyond traditional methods, partner with the private sector to improve risk assessments, and continue supporting innovation in AI."}
 ]
@@ -190,10 +142,7 @@ Document 10: The Path to Trustworthy AI: G7 Outcomes and Implications for Global
     {"input": "How do international organizations and multi-stakeholder initiatives contribute to the development of trustworthy AI governance frameworks?", 
     "output": "Organizations such as OECD and UNESCO, along with initiatives like GPAI play an integral role in developing tools, regulations, technical standards and assurance techniques for trustworthy AI. Countries can then look at these initiatives as benchmarks in establishing regulatory frameworks and allocating civil liabilities."},
     {"input": "What are some challenges associated with achieving interoperability among AI governance frameworks at the international level?", 
-    "output": "Some key challenges in achieving interoperability:
-                - Varying approaches and policy instruments among countries
-                - Differences in defining and assessing risks associated with AI 
-                - Need for ongoing discussions to align regulatory frameworks and international technical standards"},
+    "output": "Some key challenges in achieving interoperability:\n - Varying approaches and policy instruments among countries\n - Differences in defining and assessing risks associated with AI\n - Need for ongoing discussions to align regulatory frameworks and international technical standards"},
     {"input": "How can international collaboration in areas like Data Free Flow with Trust (DFFT) and agile governance contribute to fostering responsible AI development?", 
     "output": "Collaborative initiatives like DFFT aim to enhance cross-border data flow while ensuring trust in privacy, security, and intellectual property rights. Similarly, agile governance frameworks promote multi-stakeholder involvement, agile regulatory processes, and effective enforcement mechanisms to address emerging challenges in AI governance."},
     {"input": "What role do principles such as fairness, accountability, transparency, and safety play in shaping international discussions on AI governance?", 
@@ -231,7 +180,7 @@ Document 12: Opportunities and blind spots in the White House’s blueprint for 
     "output": "The civil rights of interest highlighted by the blueprint primarily revolve around lending, housing, and hiring."}
 ]
 ```
-Document 13: Japan’s Approach to AI Regulation and Its Impact on the 2023 G7 Presidency
+Document 13: Japan's Approach to AI Regulation and Its Impact on the 2023 G7 Presidency
 ```
 [
     {"input": "Which two categories can Japan’s AI regulations be classified under?",
@@ -261,7 +210,7 @@ Document 14: Toward international cooperation on AI governance—the US executiv
     "output": "The FCAI focuses on identifying opportunities for international cooperation on AI, especially in light of the pace and scope of domestic AI governance mechanisms being developed globally."}
 ]
 ```
-Document 15: Choking off China’s Access to the Future of AI
+Document 15: Choking off China's Access to the Future of AI
 ```
 [
     {"input": "What were the recent rounds of semiconductor related export controls announced by the Biden administration?",
@@ -314,11 +263,9 @@ Document 18: HARNESSING ARTIFICIAL INTELLIGENCE FOR DEVELOPMENT IN THE POST-COVI
     {"input": "What are the eight policy domains within AI strategies?",
     "output": "scientific research, AI talent development, entrepreneurial ecosystem, standards for ethical or trustworthy AI, data access, AI adoption in the public sector, strategic sectoral targeting of AI, building capabilities for AI governance"},
     {"input": "What were some strengths and weaknesses of Finland?",
-    "output": "- Strength: advanced digital economies
-               - Weakness: lacks economies of scale, internationally connected companies and foreign direct investment, and exhibits slow commercialization."},
+    "output": "- Strength: advanced digital economies\n - Weakness: lacks economies of scale, internationally connected companies and foreign direct investment, and exhibits slow commercialization."},
     {"input": "How was the role of government in the Finnish and UAE National AI strategies similar and different?",
-    "output": "- Similar: active roles  in developing and executing AI policies and initiatives - expansion of AI in public service, developing local scientific research capabilities, and developing AI training programs for students and government employees through public-private partnerships.
-               - Different: While the UAE has taken a hybrid approach with more top-down directed initiatives to accelerate the development of an AI ecosystem, Finland has instead exhibited a mostly bottom-up approach. Other key differences include the greater focus the UAE has had on acquiring AI talent from abroad, as well as their more emphatic role in directing the sectoral adoption of AI."},
+    "output": "- Similar: active roles  in developing and executing AI policies and initiatives - expansion of AI in public service, developing local scientific research capabilities, and developing AI training programs for students and government employees through public-private partnerships.\n - Different: While the UAE has taken a hybrid approach with more top-down directed initiatives to accelerate the development of an AI ecosystem, Finland has instead exhibited a mostly bottom-up approach. Other key differences include the greater focus the UAE has had on acquiring AI talent from abroad, as well as their more emphatic role in directing the sectoral adoption of AI."},
     {"input": "What do India and China both focus on enabling?",
     "output": "Technological development"}
 ]
@@ -328,7 +275,7 @@ Document 19: The end of the Affordable Connectivity Program is almost here, thre
 [
     {"input": "What is the affordable connectivity program and is it ending soon?",
     "output": "Affordable Connectivity Program (ACP) was enacted as part of the 2021 Infrastructure Investment and Jobs Act to ensure broadband access. It offers a $30 monthly subsidy to about 23 million homes. Funds are likely to run out in late April or May 2024."},
-    {"input": "Why wouldn’t congress extend the Affordable Connectivity Program (ACP)?",
+    {"input": "Why wouldn't congress extend the Affordable Connectivity Program (ACP)?",
     "output": "Legislators may not vote for an extension unless the program's eligibility and costs are limited. The 'Hastert Rule' in the Republican House also requires majority Republican support for a vote, which is not assured."},
     {"input": "What is the importance of the Affordable Connectivity Program?",
     "output": "The program addresses 'digital exclusion,' impacting government service costs, literacy rates, and economic growth. It also affects access to AI technology in education and healthcare, which could widen societal gaps."},
